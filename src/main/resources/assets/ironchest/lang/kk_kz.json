@@ -8,6 +8,14 @@
   "block.ironchest.crystal_chest": "Кристалл сандық",
   "block.ironchest.obsidian_chest": "Обсидиан сандық",
   "block.ironchest.dirt_chest": "ТопырақСандық 9000!",
+  
+  "block.ironchest.trapped_iron_chest": "Темір тұзақ сандық",
+  "block.ironchest.trapped_gold_chest": "Алтын тұзақ сандық",
+  "block.ironchest.trapped_diamond_chest": "Алмас тұзақ сандық",
+  "block.ironchest.trapped_copper_chest": "Мыс тұзақ сандық",
+  "block.ironchest.trapped_crystal_chest": "Кристалл тұзақ сандық",
+  "block.ironchest.trapped_obsidian_chest": "Обсидиан тұзақ сандық",
+  "block.ironchest.trapped_dirt_chest": "Тұзақ ТопырақСандық 9000!",
 
   "_comment": "Upgrades",
   "item.ironchest.iron_to_gold_chest_upgrade": "Темірден алтынға сандық жетілдіру",
